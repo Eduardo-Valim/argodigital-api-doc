@@ -605,23 +605,23 @@ Body da Requisição
         "RiskAnalysis": 
         [
             {
-                "questionId": "1",
+                "questionId": "1", //Valor do processo
                 "answer": "123.45"
             },
             {
-                "questionId": "2",
+                "questionId": "2", //tipo recurso
                 "answer": "1"
             },
             {
-                "questionId": "3",
+                "questionId": "3", //adicional cpc 
                 "answer": "5"
             },
             {
-                "questionId": "4",
+                "questionId": "4", //Inicio vigencia
                 "answer": "2020-04-23T03:00:00.000Z"
             },
             {
-                "questionId": "5",
+                "questionId": "5", //Prazo
                 "answer": "1"
             }
         ],
